@@ -19,8 +19,8 @@
   <b></br>
       Môn Học: Android Studio</br>
       Lớp: CTT12CĐ3A</br>
-      Thời Gian Học: 23/7/2020
+      Thời Gian Học: 23/7/2020</br>
       Địa chỉ Gmail: nkhoa62@gmail.com
-  </b>
+  </b></br>
   <img src="https://github.com/nkhoa62/UngDung/blob/master/Ryuuki%20copy.png"></br>
   </ul>
